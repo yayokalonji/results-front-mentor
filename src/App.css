@@ -1,0 +1,49 @@
+#root {
+  max-width: 1440px;
+  min-width: 375px;
+}
+
+h4 {
+  font-weight: 500;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+h1 {
+  font-weight: 800;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+h3 {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.description {
+  text-align: center;
+}
+
+.points {
+  font-weight: 500;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn {
+  display: flex;
+  margin: auto
+}
+
+.result {
+  background: linear-gradient(180deg, #75f 0%, #6943ff 0.01%, #2f2ce9 100%);
+}
